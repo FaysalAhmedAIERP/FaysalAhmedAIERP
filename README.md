@@ -52,6 +52,19 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - Claude
 
 ### Cybersecurity
+- Security Operations
+- Network Security
+- Incident Response & Business Continuity Concepts
+- Access Control Concepts
+- Cybersecurity Principles
+- Ethical Hacking
+- Cybersecurity for AI Agents
+
+---
+
+## Professional Certifications & Technical Training
+
+### Cybersecurity
 - IBM and ISC2 Cybersecurity Specialist — Professional Certificate
 - Network Security — ISC2 / Coursera
 - Incident Response, BC, and DR Concepts — ISC2 / Coursera
@@ -67,7 +80,6 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 
 ### Supply Chain & Analytics
 - Supply Chain Analytics Essentials — Rutgers University / Coursera
-
 ---
 
 ## Technical Skills
