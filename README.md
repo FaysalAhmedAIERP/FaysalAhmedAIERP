@@ -52,11 +52,21 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - Claude
 
 ### Cybersecurity
-- Security Operations
-- Access Control Concepts
-- Cybersecurity Principles
-- Ethical Hacking
-- Cybersecurity for AI Agents
+- IBM and ISC2 Cybersecurity Specialist — Professional Certificate
+- Network Security — ISC2 / Coursera
+- Incident Response, BC, and DR Concepts — ISC2 / Coursera
+- Cybersecurity: Developing a Program for Your Business — Kennesaw State University / Coursera
+- Cybersecurity Capstone: Breach Response Case Studies — IBM / Coursera
+- Cybersecurity Awareness: Cybersecurity Terminology — LinkedIn Learning
+
+### AI, ERP & IT
+- Google AI Essentials — Google / Coursera
+- SAP Professional Fundamentals — SAP / Coursera
+- Introduction to Networking and Storage — IBM / Coursera
+- Introduction to Cloud Computing — IBM / Coursera
+
+### Supply Chain & Analytics
+- Supply Chain Analytics Essentials — Rutgers University / Coursera
 
 ---
 
