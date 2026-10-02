@@ -4,11 +4,11 @@
 
 **Supply Chain & ERP | AI Automation | Cybersecurity | Procurement & P2P | SCM + IT | MSc ITM, MBA**
 
-I am a Supply Chain, ERP and IT professional focused on combining operational expertise with AI, automation and digital transformation.
+I am a Supply Chain, ERP and IT professional with 11+ years of experience across supply chain management, procurement, foreign procurement, import/export operations, logistics, inventory, warehouse operations, ERP-supported processes and business-process improvement.
 
-My professional background includes supply chain management, foreign procurement, import/export operations, logistics, inventory, warehouse management, ERP-supported processes, application support, SOP development and business process improvement.
+My professional focus is on combining operational expertise with AI, ERP, Python automation, cybersecurity and digital transformation to develop practical, structured and intelligent business solutions.
 
-I am currently expanding my work in AI-enabled ERP solutions, Python automation, AI agents, cybersecurity and intelligent business process automation.
+I am currently pursuing a **Dual-Award MSc in Information Technology Management** through **Asia Pacific University of Technology & Innovation (APU), Malaysia** and **De Montfort University (DMU), United Kingdom**.
 
 ---
 
@@ -20,13 +20,18 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - Procurement & Procure-to-Pay (P2P)
 - Vendor Sourcing & Evaluation
 - Purchase Requisition & Purchase Order Processing
-- Import / Export Documentation
+- Proforma Invoice & Sales Contract Coordination
 - Letter of Credit (L/C) Documentation
+- Import / Export Documentation
+- Shipping Documentation
 - Customs & C&F Coordination
-- Landed Cost & Demurrage Analysis
+- Landed Cost Analysis
+- Demurrage Analysis
 - Warehouse & Inventory Management
 - Safety Stock & Reorder-Level Analysis
+- Demand Planning & Forecasting
 - KPI Reporting
+- SOP Development
 
 ### ERP & IT
 - ERP Workflow Analysis
@@ -39,6 +44,10 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - Technical Documentation
 - Database Management
 - SQL & MySQL
+- Business Intelligence
+- Data Management
+- System Development
+- Digital Transformation
 
 ### AI & Automation
 - AI Agents
@@ -46,18 +55,27 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - AI-Assisted Business Process Automation
 - Python Automation
 - SOP-to-Automation Workflow Design
+- AI-Enabled ERP Concepts
+- Intelligent Supply Chain Automation
+- Procurement Automation
+- Document Processing Automation
 - ChatGPT
 - Microsoft Copilot
 - Gemini
 - Claude
+- n8n Automation Concepts
 
 ### Cybersecurity
 - Security Operations
 - Network Security
-- Incident Response & Business Continuity Concepts
+- Information Security
+- Incident Response Concepts
+- Business Continuity & Disaster Recovery Concepts
 - Access Control Concepts
 - Cybersecurity Principles
 - Ethical Hacking
+- Cybersecurity Program Development
+- Breach Response Case Studies
 - Cybersecurity for AI Agents
 
 ---
@@ -65,31 +83,62 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 ## Professional Certifications & Technical Training
 
 ### Cybersecurity
-- IBM and ISC2 Cybersecurity Specialist — Professional Certificate
-- Network Security — ISC2 / Coursera
-- Incident Response, BC, and DR Concepts — ISC2 / Coursera
-- Cybersecurity: Developing a Program for Your Business — Kennesaw State University / Coursera
-- Cybersecurity Capstone: Breach Response Case Studies — IBM / Coursera
-- Cybersecurity Awareness: Cybersecurity Terminology — LinkedIn Learning
+- **IBM and ISC2 Cybersecurity Specialist — Professional Certificate**
+- **Network Security — ISC2 / Coursera**
+- **Incident Response, BC, and DR Concepts — ISC2 / Coursera**
+- **Cybersecurity: Developing a Program for Your Business — Kennesaw State University / Coursera**
+- **Cybersecurity Capstone: Breach Response Case Studies — IBM / Coursera**
+- **Cybersecurity and Mobility — Kennesaw State University / Coursera**
+- **Cybersecurity and the X-Factor — Kennesaw State University / Coursera**
+- **Cybersecurity Awareness: Cybersecurity Terminology — LinkedIn Learning**
+- **Diploma in Ethical Hacking — Alison**
 
 ### AI, ERP & IT
-- Google AI Essentials — Google / Coursera
-- SAP Professional Fundamentals — SAP / Coursera
-- Introduction to Networking and Storage — IBM / Coursera
-- Introduction to Cloud Computing — IBM / Coursera
+- **Google AI Essentials — Google / Coursera**
+- **SAP Professional Fundamentals — SAP / Coursera**
+- **Introduction to Networking and Storage — IBM / Coursera**
+- **Introduction to Cloud Computing — IBM / Coursera**
 
 ### Supply Chain & Analytics
-- Supply Chain Analytics Essentials — Rutgers University / Coursera
+- **Supply Chain Analytics Essentials — Rutgers University / Coursera**
+
+---
+
+## Academic & Technical Highlights
+
+### MSc in Information Technology Management — Dual Award
+**Asia Pacific University of Technology & Innovation (APU), Malaysia**  
+**De Montfort University (DMU), United Kingdom**
+
+**Current CGPA: 3.67 / 4.00**
+
+Selected technical academic results:
+
+- Information Security Architectures — **A+**
+- Business Intelligence Systems — **A**
+- Data Management — **A**
+- Research Methodology in Computing and Engineering — **A+**
+- Programming in Python — **Pass**
+- Database Fundamentals — **Pass**
+- System Development Methods — **Pass**
+
+### MBA — Operations & Supply Chain Management
+**American International University-Bangladesh (AIUB)**
+
+### BBA — Operations & Supply Chain Management
+**American International University-Bangladesh (AIUB)**
+
 ---
 
 ## Technical Skills
 
 **Programming:** Python, JavaScript, PHP, HTML, CSS  
 **Databases:** SQL, MySQL  
-**ERP & Business Systems:** Oracle ERP, ERP Workflow Design  
-**Analytics:** SAP Lumira, SAS Studio, IBM SPSS, Microsoft Excel  
-**Automation:** AI Agents, Workflow Automation, Business Process Automation  
-**Cybersecurity:** Security Operations, Access Control, Ethical Hacking
+**ERP & Business Systems:** Oracle ERP, ERP Workflow Design, API & EDI Concepts  
+**Analytics & Reporting:** SAP Lumira, SAS Studio, IBM SPSS, Microsoft Excel  
+**AI & Automation:** AI Agents, Workflow Automation, Business Process Automation, Python Automation  
+**Cybersecurity:** Security Operations, Network Security, Access Control, Information Security, Ethical Hacking  
+**Documentation:** SOP Development, Technical Documentation, Process Mapping, Business Requirements Documentation
 
 ---
 
@@ -102,38 +151,97 @@ I am currently expanding my work in AI-enabled ERP solutions, Python automation,
 - AI Agent Creator Desktop Software
 - AI Job Agent
 - WhatsApp AI Approval Agent
+- AI-Powered Document Processing
 - SOP to AI Workflow Automation
 - AI Agent Development with Python, LLMs & APIs
-- N8N AI Automation Projects
+- n8n AI Automation Projects
+- Business Process Automation Consultant Framework
+- Claude Code ERP Automation Specialist
+- Claude MCP API Integration Specialist
+- AI Software Development Agent
+- Bangladesh Government Audit Automation Agent
+- Gmail AI Agent
 - Library Management System
 - Student Performance Report Generator
-- Loan / EMI Calculator
+- Comprehensive Loan / EMI Calculator
 - Shopping & Tax Calculator
 - Advanced Time Converter
 
 ---
 
-## Professional Focus
+## Professional Experience Highlights
 
-My long-term professional focus is to design intelligent solutions that combine:
+### Managing Director
+**Frostwood Global Services Limited**
 
-**AI + ERP + Supply Chain + Automation + IT + Cybersecurity**
+- Administration and operations management
+- Service-delivery coordination
+- Business-process standardization
+- AI-enabled workflow improvement
+- Stakeholder and partner coordination
 
-with a strong emphasis on practical business-process improvement, responsible AI-assisted decision support and human accountability.
+### Application Analyst — Supply Chain Management
+**Intellier Limited — Payra Port Authority Project**
+
+- Supported ERP and application workflows
+- Developed SOPs and process documentation
+- Supported procurement, commercial, warehouse and MIS processes
+- Designed reporting templates and operational controls
+- Contributed to ERP/software workflow and UX concepts
+- Supported digitization and paperless process initiatives
+
+### Supply Chain & Foreign Procurement Experience
+
+Professional experience across:
+
+- Akij Food & Beverage Limited
+- Bengal Group of Industries
+- Partex Star Group
+- Globex Marketing Company Limited
+- Chittagong Container Transportation Company Limited
+
+Key areas include procurement, foreign procurement, logistics, import documentation, L/C processing, customs coordination, warehouse operations, inventory management, landed cost, demurrage and supplier coordination.
 
 ---
 
-## Education
+## Professional Focus
 
-**MSc in Information Technology Management**  
-Asia Pacific University of Technology & Innovation (APU), Malaysia  
-Dual Award with De Montfort University, United Kingdom
+My long-term professional focus is to design intelligent enterprise solutions that combine:
 
-**MBA — Operations & Supply Chain Management**  
-American International University-Bangladesh (AIUB)
+**AI + ERP + Supply Chain + Automation + IT + Cybersecurity**
 
-**BBA — Operations & Supply Chain Management**  
-American International University-Bangladesh (AIUB)
+I am particularly interested in developing AI-enabled ERP and supply-chain solutions where:
+
+**AI recommends and explains; ERP executes approved actions; Humans remain accountable.**
+
+My focus areas include:
+
+- Intelligent ERP Automation
+- AI-Enabled Supply Chain Management
+- Procurement & P2P Automation
+- SOP Automation
+- AI Agents
+- Business Process Automation
+- Responsible AI
+- Cybersecurity for AI Systems
+- Digital Transformation
+- Enterprise Software Solutions
+
+---
+
+## Professional Interests
+
+- ERP Software Design & Development
+- AI Automation
+- Supply Chain Digital Transformation
+- Procurement Technology
+- Business Process Automation
+- Cybersecurity
+- Python Software Development
+- AI Agents
+- Data Analytics
+- Enterprise Technology
+- Remote Global Projects
 
 ---
 
@@ -142,19 +250,26 @@ American International University-Bangladesh (AIUB)
 **LinkedIn:**  
 https://www.linkedin.com/in/faysalahmedsanil/
 
-**Email:**  
-faysalahmedapumscit@gmail.com
-
 **GitHub:**  
 https://github.com/FaysalAhmedAIERP
+
+**Email:**  
+faysalahmedapumscit@gmail.com
 
 **Location:**  
 Kuala Lumpur, Malaysia
 
+**Company:**  
+Frostwood Global Services Limited
+
 ---
 
-### Universal Digital Brand
+## Universal Digital Brand
 
-**FaysalAhmedAIERP**
+### FaysalAhmedAIERP
 
-AI | ERP | Supply Chain | Procurement | Automation | IT | Cybersecurity | Digital Transformation
+**AI | ERP | Supply Chain | Procurement | P2P | Automation | IT | Cybersecurity | Python | Digital Transformation**
+
+---
+
+> Building practical connections between business operations, enterprise systems and intelligent automation.
