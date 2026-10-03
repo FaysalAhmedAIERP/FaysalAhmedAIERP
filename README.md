@@ -273,3 +273,14 @@ Frostwood Global Services Limited
 ---
 
 > Building practical connections between business operations, enterprise systems and intelligent automation.
+
+
+---
+
+## Copyright
+
+© 2026 Faysal Ahmed. All Rights Reserved.
+
+Proprietary components, production logic, confidential business rules, credentials, private datasets, and sensitive implementation details are not included in this public repository.
+
+This repository is publicly available for portfolio, demonstration, and professional evaluation purposes only.
