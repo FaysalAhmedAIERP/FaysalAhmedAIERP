@@ -118,9 +118,9 @@ Selected technical academic results:
 - Business Intelligence Systems — **A**
 - Data Management — **A**
 - Research Methodology in Computing and Engineering — **A+**
-- Programming in Python — **Pass**
-- Database Fundamentals — **Pass**
-- System Development Methods — **Pass**
+- Programming in Python — **A**
+- Database Fundamentals — **A**
+- System Development Methods — **A**
 
 ### MBA — Operations & Supply Chain Management
 **American International University-Bangladesh (AIUB)**
