@@ -8,7 +8,8 @@ I am a Supply Chain, ERP and IT professional with 11+ years of experience across
 
 My professional focus is on combining operational expertise with AI, ERP, Python automation, cybersecurity and digital transformation to develop practical, structured and intelligent business solutions.
 
-I am currently pursuing a **Dual-Award MSc in Information Technology Management** through **Asia Pacific University of Technology & Innovation (APU), Malaysia** and **De Montfort University (DMU), United Kingdom**.
+I am currently pursuing a **Dual-Award MSc in Information Technology Management** through **Asia Pacific University of Technology & Innovation (APU), Malaysia** and **De Montfort University (DMU), United Kingdom**.Expected completion: December 2026.
+
 
 ---
 
