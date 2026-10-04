@@ -110,17 +110,23 @@ I am currently pursuing a **Dual-Award MSc in Information Technology Management*
 **Asia Pacific University of Technology & Innovation (APU), Malaysia**  
 **De Montfort University (DMU), United Kingdom**
 
-**Current CGPA: 3.67 / 4.00**
 
-Selected technical academic results:
+Academic Course Module:
 
-- Information Security Architectures — **A+**
-- Business Intelligence Systems — **A**
-- Data Management — **A**
-- Research Methodology in Computing and Engineering — **A+**
-- Programming in Python — **A**
-- Database Fundamentals — **A**
-- System Development Methods — **A**
+- Information Security Architectures
+- Business Intelligence Systems
+- Data Management 
+- Research Methodology in Computing and Engineering
+- Programming in Python 
+- Database Fundamentals 
+- System Development Methods
+- Managing Software Development
+- Digital Execution
+- Technology Management
+- Enterprise Architecture
+- Research Methodology for Computer Science
+- MySQL
+
 
 ### MBA — Operations & Supply Chain Management
 **American International University-Bangladesh (AIUB)**
