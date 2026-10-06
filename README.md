@@ -255,7 +255,7 @@ My focus areas include:
 ## Connect With Me
 
 **LinkedIn:**  
-https://www.linkedin.com/in/faysalahmedsanil/
+https://www.linkedin.com/in/faysalahmedaierp/
 
 **GitHub:**  
 https://github.com/FaysalAhmedAIERP
