@@ -1,4 +1,5 @@
-# Faysal Ahmed | AI & ERP
+# Faysal Ahmed 
+| AI | ERP |Cybersecurity |Automation
 
 ### FaysalAhmedAIERP
 
