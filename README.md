@@ -1,5 +1,5 @@
 # Faysal Ahmed 
-| AI | ERP |Cybersecurity |Automation
+| AI | ERP | IT | Cybersecurity | Automation
 
 ### FaysalAhmedAIERP
 
